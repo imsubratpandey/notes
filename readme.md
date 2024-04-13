@@ -28,4 +28,4 @@ Start the app
 React.js
 
 ## Created by
-[Subrat Pandey](https://github.com/32bitdev)
+[Subrat Pandey](https://github.com/imsubratpandey)
